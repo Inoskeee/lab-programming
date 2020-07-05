@@ -1,0 +1,13 @@
+E:\Лабораторные по C#\Практическая работа №4\lab_4\lab_4\bin\Debug\lab_4.exe.config
+E:\Лабораторные по C#\Практическая работа №4\lab_4\lab_4\bin\Debug\lab_4.exe
+E:\Лабораторные по C#\Практическая работа №4\lab_4\lab_4\bin\Debug\lab_4.pdb
+E:\Лабораторные по C#\Практическая работа №4\lab_4\lab_4\obj\Debug\lab_4.csprojAssemblyReference.cache
+E:\Лабораторные по C#\Практическая работа №4\lab_4\lab_4\obj\Debug\lab_4.csproj.CoreCompileInputs.cache
+E:\Лабораторные по C#\Практическая работа №4\lab_4\lab_4\obj\Debug\lab_4.exe
+E:\Лабораторные по C#\Практическая работа №4\lab_4\lab_4\obj\Debug\lab_4.pdb
+C:\Лабораторные по C#\Практическая работа №4\lab_4\lab_4\bin\Debug\lab_4.exe.config
+C:\Лабораторные по C#\Практическая работа №4\lab_4\lab_4\bin\Debug\lab_4.exe
+C:\Лабораторные по C#\Практическая работа №4\lab_4\lab_4\bin\Debug\lab_4.pdb
+C:\Лабораторные по C#\Практическая работа №4\lab_4\lab_4\obj\Debug\lab_4.csprojAssemblyReference.cache
+C:\Лабораторные по C#\Практическая работа №4\lab_4\lab_4\obj\Debug\lab_4.exe
+C:\Лабораторные по C#\Практическая работа №4\lab_4\lab_4\obj\Debug\lab_4.pdb
