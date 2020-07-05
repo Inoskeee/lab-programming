@@ -1,0 +1,11 @@
+E:\Лабораторные по C#\Практическая работа №8\lab_8\lab_8\bin\Debug\lab_8.exe.config
+E:\Лабораторные по C#\Практическая работа №8\lab_8\lab_8\bin\Debug\lab_8.exe
+E:\Лабораторные по C#\Практическая работа №8\lab_8\lab_8\bin\Debug\lab_8.pdb
+E:\Лабораторные по C#\Практическая работа №8\lab_8\lab_8\obj\Debug\lab_8.csprojAssemblyReference.cache
+E:\Лабораторные по C#\Практическая работа №8\lab_8\lab_8\obj\Debug\lab_8.Menu.resources
+E:\Лабораторные по C#\Практическая работа №8\lab_8\lab_8\obj\Debug\lab_8.Properties.Resources.resources
+E:\Лабораторные по C#\Практическая работа №8\lab_8\lab_8\obj\Debug\lab_8.csproj.GenerateResource.cache
+E:\Лабораторные по C#\Практическая работа №8\lab_8\lab_8\obj\Debug\lab_8.exe
+E:\Лабораторные по C#\Практическая работа №8\lab_8\lab_8\obj\Debug\lab_8.pdb
+E:\Лабораторные по C#\Практическая работа №8\lab_8\lab_8\obj\Debug\lab_8.CreateEl.resources
+E:\Лабораторные по C#\Практическая работа №8\lab_8\lab_8\obj\Debug\lab_8.Setting.resources
