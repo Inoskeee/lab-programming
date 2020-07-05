@@ -1,0 +1,12 @@
+C:\Лабораторные по C#\Практическая работа №9\lab_9\lab_9\bin\Debug\lab_9.exe.config
+C:\Лабораторные по C#\Практическая работа №9\lab_9\lab_9\bin\Debug\lab_9.exe
+C:\Лабораторные по C#\Практическая работа №9\lab_9\lab_9\bin\Debug\lab_9.pdb
+C:\Лабораторные по C#\Практическая работа №9\lab_9\lab_9\obj\Debug\lab_9.csprojAssemblyReference.cache
+C:\Лабораторные по C#\Практическая работа №9\lab_9\lab_9\obj\Debug\lab_9.exe
+C:\Лабораторные по C#\Практическая работа №9\lab_9\lab_9\obj\Debug\lab_9.pdb
+E:\Лабораторные по C#\Практическая работа №9\lab_9\lab_9\bin\Debug\lab_9.exe.config
+E:\Лабораторные по C#\Практическая работа №9\lab_9\lab_9\bin\Debug\lab_9.exe
+E:\Лабораторные по C#\Практическая работа №9\lab_9\lab_9\bin\Debug\lab_9.pdb
+E:\Лабораторные по C#\Практическая работа №9\lab_9\lab_9\obj\Debug\lab_9.csprojAssemblyReference.cache
+E:\Лабораторные по C#\Практическая работа №9\lab_9\lab_9\obj\Debug\lab_9.exe
+E:\Лабораторные по C#\Практическая работа №9\lab_9\lab_9\obj\Debug\lab_9.pdb
