@@ -1,0 +1,13 @@
+E:\Лабораторные по C#\Практическая работа №3\3_lab\3_lab\bin\Debug\3_lab.exe.config
+E:\Лабораторные по C#\Практическая работа №3\3_lab\3_lab\bin\Debug\3_lab.exe
+E:\Лабораторные по C#\Практическая работа №3\3_lab\3_lab\bin\Debug\3_lab.pdb
+E:\Лабораторные по C#\Практическая работа №3\3_lab\3_lab\obj\Debug\3_lab.csprojAssemblyReference.cache
+E:\Лабораторные по C#\Практическая работа №3\3_lab\3_lab\obj\Debug\3_lab.csproj.CoreCompileInputs.cache
+E:\Лабораторные по C#\Практическая работа №3\3_lab\3_lab\obj\Debug\3_lab.exe
+E:\Лабораторные по C#\Практическая работа №3\3_lab\3_lab\obj\Debug\3_lab.pdb
+C:\Лабораторные по C#\Практическая работа №3\3_lab\3_lab\bin\Debug\3_lab.exe.config
+C:\Лабораторные по C#\Практическая работа №3\3_lab\3_lab\bin\Debug\3_lab.exe
+C:\Лабораторные по C#\Практическая работа №3\3_lab\3_lab\bin\Debug\3_lab.pdb
+C:\Лабораторные по C#\Практическая работа №3\3_lab\3_lab\obj\Debug\3_lab.csprojAssemblyReference.cache
+C:\Лабораторные по C#\Практическая работа №3\3_lab\3_lab\obj\Debug\3_lab.exe
+C:\Лабораторные по C#\Практическая работа №3\3_lab\3_lab\obj\Debug\3_lab.pdb
