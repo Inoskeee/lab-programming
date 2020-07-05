@@ -1,0 +1,13 @@
+E:\Лабораторные по C#\1st Lab\1st Lab\bin\Debug\1st Lab.exe.config
+E:\Лабораторные по C#\1st Lab\1st Lab\bin\Debug\1st Lab.exe
+E:\Лабораторные по C#\1st Lab\1st Lab\bin\Debug\1st Lab.pdb
+E:\Лабораторные по C#\1st Lab\1st Lab\obj\Debug\1st Lab.csprojAssemblyReference.cache
+E:\Лабораторные по C#\1st Lab\1st Lab\obj\Debug\1st Lab.csproj.CoreCompileInputs.cache
+E:\Лабораторные по C#\1st Lab\1st Lab\obj\Debug\1st Lab.exe
+E:\Лабораторные по C#\1st Lab\1st Lab\obj\Debug\1st Lab.pdb
+C:\Лабораторные по C#\Практическая работа №1\1st Lab\bin\Debug\1st Lab.exe.config
+C:\Лабораторные по C#\Практическая работа №1\1st Lab\bin\Debug\1st Lab.exe
+C:\Лабораторные по C#\Практическая работа №1\1st Lab\bin\Debug\1st Lab.pdb
+C:\Лабораторные по C#\Практическая работа №1\1st Lab\obj\Debug\1st Lab.csprojAssemblyReference.cache
+C:\Лабораторные по C#\Практическая работа №1\1st Lab\obj\Debug\1st Lab.exe
+C:\Лабораторные по C#\Практическая работа №1\1st Lab\obj\Debug\1st Lab.pdb
