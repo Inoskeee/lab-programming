@@ -1,0 +1,7 @@
+E:\Лабораторные по C#\Практическая работа №11\lab_11\lab_11\bin\Debug\lab_11.exe.config
+E:\Лабораторные по C#\Практическая работа №11\lab_11\lab_11\bin\Debug\lab_11.exe
+E:\Лабораторные по C#\Практическая работа №11\lab_11\lab_11\bin\Debug\lab_11.pdb
+E:\Лабораторные по C#\Практическая работа №11\lab_11\lab_11\obj\Debug\lab_11.csprojAssemblyReference.cache
+E:\Лабораторные по C#\Практическая работа №11\lab_11\lab_11\obj\Debug\lab_11.exe
+E:\Лабораторные по C#\Практическая работа №11\lab_11\lab_11\obj\Debug\lab_11.pdb
+E:\Лабораторные по C#\Практическая работа №11\lab_11\lab_11\obj\Debug\lab_11.csproj.CoreCompileInputs.cache
